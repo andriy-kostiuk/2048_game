@@ -22,7 +22,7 @@ This project implements the **2048** game using **JavaScript**, **HTML**, and **
 
 ### JavaScript
 
-- **ES6+** syntax (e.g., `let`, `const`, arrow functions, template literals, destructuring, etc.).
+- **ES6+** syntax (e.g., `let`, `const`, template literals, destructuring, etc.).
 - **Strict mode** (`'use strict';`) is used to enforce better error handling.
 - Classes are used for game logic, with clear method separation.
 - Variables are named using **camelCase**.

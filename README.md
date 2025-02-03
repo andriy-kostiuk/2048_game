@@ -1,4 +1,4 @@
-# 2048 Game
+# PowerTiles
 
 2048 is a classic puzzle game where the goal is to combine identical tiles on the game board to reach the tile with the number 2048.
 
